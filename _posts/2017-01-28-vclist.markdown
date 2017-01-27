@@ -33,6 +33,7 @@ categories: jekyll update
      <td>
      <a href="https://www.facebook.com/crowdbotics/">
         {{ list.Name }}
+        </a>
     </td>
       <td>
         {{ list.Type }}
