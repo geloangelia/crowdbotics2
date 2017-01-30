@@ -42,3 +42,9 @@ sass:
 include: [_pages]
 
 gems: [jekyll-paginate, jekyll-seo-tag]
+
+# Collections
+collections:
+  myvclist:
+    output: true
+    
