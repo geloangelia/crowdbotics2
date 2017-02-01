@@ -27,6 +27,5 @@ gem 'jekyll-paginate', group: :jekyll_plugins
 
 gem 'jekyll-seo-tag'
 
-
-gem 'jekyll-csv'
+gem 'jekyll-csv', '~> 0.1.1'
 
