@@ -31,7 +31,7 @@ categories: jekyll update
         {{ list.No }}
     </td>
      <td>
-     <a href="{{ site.layout/vclist }}">
+     <a href="{{ site.index }}">
         {{ list.Name }}
         </a>
     </td>
