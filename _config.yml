@@ -47,3 +47,6 @@ gems: [jekyll-paginate, jekyll-seo-tag]
 collections:
   myvclist:
   output: true
+
+gems:
+  - jekyll-seo-tag
