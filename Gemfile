@@ -26,3 +26,7 @@ end
 gem 'jekyll-paginate', group: :jekyll_plugins
 
 gem 'jekyll-seo-tag'
+
+
+gem 'jekyll-csv'
+
