@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: vclist
 title: vclist   
 ---
 
-
-Hello World!!!
+Hellow world
