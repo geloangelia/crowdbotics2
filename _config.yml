@@ -47,11 +47,12 @@ gems:
   - jekyll-seo-tag
 
 # Collections
-collections:
-  mylist:
-  output: true
 
 csv:
   mylist:
   source: https://docs.google.com/spreadsheets/d/14CTs6Y2hMahNV0UeT2XY3dsJixATY6y7dqHD_T6OP6w/edit?usp=sharing
   slug: crowdbotics
+
+collections:
+  mylist:
+  output: true
