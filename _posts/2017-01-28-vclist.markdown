@@ -31,7 +31,7 @@ categories: jekyll update
         {{ list.No }}
     </td>
      <td>
-     <a href="{{ site.index }}">
+     <a href="{{ vclist.Name | datapage_url: 'vclist' }}">
         {{ list.Name }}
         </a>
     </td>

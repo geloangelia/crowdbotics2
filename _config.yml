@@ -62,4 +62,4 @@ page_gen:
   - data: 'vclist'
     template: 'default'
     name: 'cvclist'
-    dir: 'firms'
+    dir: 'vclist'

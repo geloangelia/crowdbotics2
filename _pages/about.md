@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-VCLIST
-
-{% for item in site.mylist %}
-  <p>{{ item.Name }}</p>
-{% endfor %}
-
-
-<h1>{{page.Name}}</h1>
-{{page.Typeio}}
+Francis Angelo Angelia
