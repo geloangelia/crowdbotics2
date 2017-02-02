@@ -60,6 +60,6 @@ collections:
 #DataPageGenerator
 page_gen:
   - data: 'vclist'
-    template: 'default'
-    name: 'cvclist'
-    dir: 'vclist'
+    template: 'Lvclist'
+    name: 'myvclist'
+    dir: 'vclistaaa'

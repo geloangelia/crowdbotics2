@@ -4,7 +4,7 @@ title:  "Venture Capital List"
 date:   2017-01-28 02:20:29 +0800
 categories: jekyll update
 ---
-
+1
 <table align="left">
 <thead align="left">
       <tr>
@@ -31,7 +31,7 @@ categories: jekyll update
         {{ list.No }}
     </td>
      <td>
-     <a href="{{ vclist.Name | datapage_url: 'vclist' }}">
+     <a href="{{ page_Lvclist | datapage_url: 'vclistaaa' }}">
         {{ list.Name }}
         </a>
     </td>
