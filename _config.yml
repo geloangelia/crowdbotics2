@@ -56,3 +56,10 @@ csv:
 collections:
   mylist:
   output: true
+
+#DataPageGenerator
+page_gen:
+  - data: 'vclist'
+    template: 'default'
+    name: 'cvclist'
+    dir: 'firms'
